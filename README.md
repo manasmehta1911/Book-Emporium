@@ -13,3 +13,5 @@ Achievements:
 
 Reduced book search time by implementing an efficient search algorithm.
 Easy addition , deletion as well as updation of books details.
+
+![image](https://github.com/manasmehta1911/Book_Emporium/assets/102160427/6e5128df-da06-4f5c-9ee2-6ca35d3adfc2)
